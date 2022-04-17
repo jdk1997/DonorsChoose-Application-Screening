@@ -1,1 +1,1 @@
-# Naive-Bayes-on-DonorsChoose
+# Naive Bayes on DonorsChoose
